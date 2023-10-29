@@ -8,6 +8,7 @@ Included within this repository are the following:
 - Capstone Project report word document
 - Downloaded teachable model
 - Python file containing tkinter teachable model implementation
+- The images used in the EDA/PDA and the GUI deployment
 
 Dataset used for this project:
 https://www.kaggle.com/datasets/vitaminc/cigarette-smoker-detection
